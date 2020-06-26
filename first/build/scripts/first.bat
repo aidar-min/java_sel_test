@@ -84,6 +84,7 @@ set CMD_LINE_ARGS=%*
 
 set CLASSPATH=%APP_HOME%\lib\first.jar
 
+
 @rem Execute first
 "%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %FIRST_OPTS%  -classpath "%CLASSPATH%" FirstTest %CMD_LINE_ARGS%
 
