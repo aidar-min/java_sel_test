@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d74d52a-f2d9-400e-8bbc-9a5f57de822d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dqonuDZUypUZM32NcsVgOTn7NQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d74d52a-f2d9-400e-8bbc-9a5f57de822d" name="Default Changelist" comment="" />
+      <created>1593162157965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593162157965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="51" key="FileChooserDialogImpl" timestamp="1593162699124">
+      <screen x="0" y="0" width="1366" height="623" />
+    </state>
+    <state x="462" y="51" key="FileChooserDialogImpl/0.0.1366.623@0.0.1366.623" timestamp="1593162699124" />
+    <state x="65" y="0" key="new project wizard" timestamp="1593162718505">
+      <screen x="0" y="0" width="1366" height="623" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.623@0.0.1366.623" timestamp="1593162718505" />
+  </component>
+</project>
